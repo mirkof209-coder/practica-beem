@@ -47,7 +47,7 @@ body {
 }
 
 .section__title {
-    color: #1e3a5f;
+    color: grey ;
     font-size: 24px;
     margin-bottom: 15px;
     border-bottom: 2px solid #3498db;
@@ -69,7 +69,7 @@ body {
 }
 
 .tips__item {
-    background-color: #eef4fa;
+    background-color: black ;
     padding: 15px;
     margin-bottom: 15px;
     border-left: 4px solid #3498db;
