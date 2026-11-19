@@ -1,0 +1,98 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f5f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Bloque Header */
+.header {
+    background-color: #1e3a5f;
+    color: white;
+    text-align: center;
+    padding: 35px 20px;
+}
+
+.header__title {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.header__description {
+    font-size: 16px;
+}
+
+/* Bloque Main */
+.main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+
+.section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.section__title {
+    color: #1e3a5f;
+    font-size: 24px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 8px;
+}
+
+.section__content {
+    margin-top: 15px;
+}
+
+.section__text {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+
+.tips {
+    list-style: none;
+}
+
+.tips__item {
+    background-color: #eef4fa;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 4px solid #3498db;
+    border-radius: 5px;
+}
+
+.tips__title {
+    color: #1e3a5f;
+    margin-bottom: 8px;
+}
+
+.tips__text {
+    text-align: justify;
+}
+
+
+.footer {
+    background-color: #1e3a5f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer__text {
+    font-size: 14px;
+}
